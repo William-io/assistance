@@ -1,0 +1,17 @@
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\bin\Debug\net6.0\Assistance.Data.deps.json
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\bin\Debug\net6.0\Assistance.Data.runtimeconfig.json
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\bin\Debug\net6.0\Assistance.Data.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\bin\Debug\net6.0\ref\Assistance.Data.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\bin\Debug\net6.0\Assistance.Data.pdb
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\bin\Debug\net6.0\Assistance.Domain.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\bin\Debug\net6.0\Assistance.Domain.pdb
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.GlobalUsings.g.cs
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.csproj.AssemblyReference.cache
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.AssemblyInfoInputs.cache
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.AssemblyInfo.cs
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.csproj.CoreCompileInputs.cache
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\ref\Assistance.Data.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.pdb
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Infrastructure\Assistance.Data\obj\Debug\net6.0\Assistance.Data.genruntimeconfig.cache

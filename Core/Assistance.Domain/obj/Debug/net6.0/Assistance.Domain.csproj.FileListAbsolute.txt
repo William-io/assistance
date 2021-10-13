@@ -1,0 +1,13 @@
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\bin\Debug\net6.0\Assistance.Domain.deps.json
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\bin\Debug\net6.0\Assistance.Domain.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\bin\Debug\net6.0\ref\Assistance.Domain.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\bin\Debug\net6.0\Assistance.Domain.pdb
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\Assistance.Domain.GlobalUsings.g.cs
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\Assistance.Domain.csproj.AssemblyReference.cache
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\Assistance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\Assistance.Domain.AssemblyInfoInputs.cache
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\Assistance.Domain.AssemblyInfo.cs
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\Assistance.Domain.csproj.CoreCompileInputs.cache
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\Assistance.Domain.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\ref\Assistance.Domain.dll
+F:\source\repos\Code Snippets\CSharp-API\SUS\src\Core\Assistance.Domain\obj\Debug\net6.0\Assistance.Domain.pdb
